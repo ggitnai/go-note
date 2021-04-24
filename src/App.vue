@@ -99,7 +99,7 @@
   }
 
   .cover {
-    background-image: url("./assets/background1.jpg");
+    background-image: url("./assets/red.jpg");
     background-position: center;
     background-size: cover;
     height: 30%;
